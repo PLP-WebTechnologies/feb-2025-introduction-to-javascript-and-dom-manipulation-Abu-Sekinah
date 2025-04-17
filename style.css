@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+}
+
+.highlight {
+  color: white;
+  background-color: teal;
+  padding: 5px;
+  border-radius: 4px;
+}
